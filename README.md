@@ -100,14 +100,14 @@ The system identifies churn risk based on:
 
 ## 📸 9. Screenshots
 
-### 🔹 UI Interface
-
-![UI](assets/ui.png)
+### 🔹 Main Dashboard
+![Dashboard](outputs/ui.png)
 
 ### 🔹 Prediction Output
+![Prediction](outputs/result.png)
 
-![Output](assets/result.png)
-
+### 🔹 Customer Profile
+![Profile](outputs/profile.png)
 ---
 
 ## ⚙️ 10. Installation & Setup
