@@ -1,0 +1,8 @@
+## ⚙️ Tech Stack
+
+* **Python**
+* **Pandas, NumPy**
+* **Scikit-learn**
+* **Streamlit**
+* **Joblib**
+* **Matplotlib**
